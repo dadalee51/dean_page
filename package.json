@@ -1,0 +1,30 @@
+{
+  "name": "dean_page",
+  "version": "1.0.0",
+  "description": "page that use dean tech",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadalee51/dean_page.git"
+  },
+  "keywords": [
+    "dean",
+    "project",
+    "webpage",
+    "example",
+    "cicd"
+  ],
+  "author": "tigo robotics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadalee51/dean_page/issues"
+  },
+  "homepage": "https://github.com/dadalee51/dean_page#readme"
+}
